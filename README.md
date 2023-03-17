@@ -1,1 +1,1 @@
-# ionic-mobileprogramming
+# SampleApp
